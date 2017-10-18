@@ -1,2 +1,2 @@
 # Boredomaway
-A playground to stave off boredom.
+A website made to stave off boredom.
