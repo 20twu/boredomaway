@@ -1,2 +1,2 @@
-# boredomaway
-Just a website to stave off boredom.
+# Boredomaway
+A playground to stave off boredom.
