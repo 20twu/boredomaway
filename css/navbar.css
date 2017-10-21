@@ -21,3 +21,14 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+
+      li  a:link {
+        color: #00bfff;
+
+    }
+
+  li a:visited {
+        color: #00bfff;
+
+    }
